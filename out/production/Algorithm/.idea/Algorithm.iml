@@ -12,6 +12,8 @@
       <excludeFolder url="file://$MODULE_DIR$/Bronze" />
       <excludeFolder url="file://$MODULE_DIR$/DFS" />
       <excludeFolder url="file://$MODULE_DIR$/BFS" />
+      <excludeFolder url="file://$MODULE_DIR$/Recursion" />
+      <excludeFolder url="file://$MODULE_DIR$/Simulation" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
