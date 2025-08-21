@@ -84,8 +84,6 @@ public class Main {
 			bw.write(ans + "");
 
 			bw.flush();
-
-
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
