@@ -14,6 +14,7 @@
       <excludeFolder url="file://$MODULE_DIR$/BFS" />
       <excludeFolder url="file://$MODULE_DIR$/Recursion" />
       <excludeFolder url="file://$MODULE_DIR$/Simulation" />
+      <excludeFolder url="file://$MODULE_DIR$/BackTracking" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
