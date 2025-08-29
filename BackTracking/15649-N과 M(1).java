@@ -14,6 +14,7 @@ public class Main {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 
 			bw.flush();
+
 		}catch (IOException e){
 			e.printStackTrace();
 		}
